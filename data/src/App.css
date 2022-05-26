@@ -36,29 +36,3 @@
     transform: rotate(360deg);
   }
 }
-body{
-  /* animation: bgcolor 10s ease-in-out infinite; */
-}
-
-@keyframes bgcolor {
-  0%{
-    background-color: rgb(194, 250, 139);
-  } 
-  20%{
-    background-color: rgb(122, 177, 237);
-  } 
-  40%{
-    background-color: rgb(247, 233, 132);
-  } 
-  60%{
-    background-color: rgb(245, 134, 186);
-  } 
-  80%{
-    background-color: rgb(136, 255, 243);
-  }
-  100%{
-    background-color: rgb(194, 250, 139);
-  }
-  
-}
-
